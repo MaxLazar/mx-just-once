@@ -21,7 +21,7 @@ This is Communite Edition (CE) add-on.
 
 ##Contributing To MX Just Once
 
-Your participation to MX  MX Just Once CE development is very welcome!
+Your participation to MX Just Once CE development is very welcome!
 
 You may participate in the following ways:
 
