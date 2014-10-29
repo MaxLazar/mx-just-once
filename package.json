@@ -1,0 +1,17 @@
+{
+    "schema_version": "1.0",
+    "addons": [
+        {
+            "name": "mx_just_once",
+            "label": "MX Just Once",
+            "types": [
+                "plugin"
+            ],
+            "paths": {
+                "system": [
+                    "system/expressionengine/third_party/mx_just_once"
+                ]
+            }
+        }
+    ]
+}
