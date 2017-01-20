@@ -66,7 +66,7 @@ class Mx_just_once {
     // This function describes how the plugin is used.
     //  Make sure and use output buffering
 
-    function usage() {
+    static function usage() {
         ob_start();
 ?>
 
